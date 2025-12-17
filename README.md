@@ -18,24 +18,24 @@ This project demonstrates my hands-on experience with AWS networking by designin
 
 - Configured route tables for seamless traffic flow and validated connectivity between EC2 instances.
 
-- ## Screenshots
+## Screenshots
 
 ### VPC & Network Setup
-![VPC Creation and CIDR Configuration](screenshots/vpc-creation-cidr.png)
+![VPC Creation and CIDR Configuration](screenshots/vpc-creation-cidr.png.jpeg)
 
 ### Subnet Architecture
-![Public Subnet Setup](screenshots/public-subnet-setup.png)
-![Private Subnet Setup](screenshots/private-subnet-setup.png)
+![Public Subnet Setup](screenshots/public-subnet-setup.png.jpeg)
+![Private Subnet Setup](screenshots/private-subnet-setup.png.jpeg)
 
 ### Internet Access & Routing
-![Internet Gateway and Route Table Configuration](screenshots/internet-gateway-routing.png)
+![Internet Gateway and Route Table Configuration](screenshots/internet-gateway-routing.png.jpeg)
 
 ### VPC Peering Configuration
-![VPC Peering Request](screenshots/vpc-peering-request.png)
-![VPC Peering Acceptance](screenshots/vpc-peering-acceptance.png)
+![VPC Peering Request](screenshots/vpc-peering-request.png.jpeg)
+![VPC Peering Acceptance](screenshots/vpc-peering-acceptance.png.jpeg)
 
 ### Connectivity Validation
-![Inter-VPC Network Ping Test](screenshots/network-ping-test.png)
+![Inter-VPC Network Ping Test](screenshots/network-ping-test.png.jpeg)
 
 
 ## Skills & Technologies Used
