@@ -38,6 +38,7 @@ This project demonstrates my hands-on experience with AWS networking by designin
 ![Inter-VPC Network Ping Test](screenshots/network-ping-test.png.jpeg)
 
 
+
 ## Skills & Technologies Used
 AWS VPC, Subnets, Route Tables, Internet Gateway, VPC Peering, Availability Zones, EC2 Networking
 
